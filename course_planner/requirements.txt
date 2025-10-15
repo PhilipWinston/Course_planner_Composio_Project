@@ -1,0 +1,4 @@
+composio
+PyMuPDF
+python-dotenv
+reportlab
