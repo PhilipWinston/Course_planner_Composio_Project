@@ -1,5 +1,11 @@
 # README — Syllabus → Notion + Google Calendar agent (Composio)
 
+## Team Members (Pixar)
+
+- Philip Winston Samuel
+- Paul Samuel W E (LEADER)
+- Subhiselvam A B
+
 ## What this agent does
 
 This Python script automates a common course-management workflow:
@@ -177,8 +183,4 @@ Your Notion database must match the properties the script writes. The script ins
 5. Does the DB have `Name` (title) and `Description` (rich_text) properties? ✔
 
 ---
-## Team Members (Pixar)
 
-- Philip Winston Samuel
-- Paul Samuel W E (LEADER)
-- Subhiselvam A B
