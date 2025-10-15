@@ -1,6 +1,6 @@
 # README — Syllabus → Notion + Google Calendar agent (Composio)
 
-## Team Members (Pixar)
+## Team Members (PixarML)
 
 - Philip Winston Samuel
 - Paul Samuel W E (LEADER)
@@ -183,4 +183,5 @@ Your Notion database must match the properties the script writes. The script ins
 5. Does the DB have `Name` (title) and `Description` (rich_text) properties? ✔
 
 ---
+
 
